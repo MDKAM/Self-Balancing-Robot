@@ -1,6 +1,6 @@
 # Self-Balancing-Robot
 
-<!-- ![Robot Image](link-to-your-image.png) -->
+![Robot Image](Images/20211120_150846.jpg)
 
 ## Overview
 
@@ -34,6 +34,8 @@ This repository contains the code and documentation for a two-wheeled self-balan
 
 3. **Hardware Connection:**
    - Connect the stepper motors and Bluetooth module according to the provided schematics.
+
+   ![Hardware Schematics](Images/flowchart_example.png)
 
 ## Usage
 [Youtube Link to the project!](https://youtu.be/nV-S86kX8dY)
